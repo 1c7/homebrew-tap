@@ -1,6 +1,6 @@
 cask "max-usage" do
   version "1.0.0"
-  sha256 "a912112dc8b66849a65a5428b07269c606aacceb91c52f8076fad49ea698d6c7"
+  sha256 "7dfd62a838edd86a64a037266d97aecc1eab1980a5337b1247227034ba1aa11b"
 
   url "https://github.com/1c7/max-usage/releases/download/v#{version}/MaxUsage-#{version}.dmg"
   name "MaxUsage"
